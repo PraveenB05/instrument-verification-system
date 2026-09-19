@@ -1,0 +1,7 @@
+tools/
+node_modules/
+frontend/dist/
+backend/target/
+.idea/
+*.iml
+.env
